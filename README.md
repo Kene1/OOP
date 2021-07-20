@@ -9,15 +9,15 @@ I propose a system where the user can see a list of songs in a music app, the us
 
 User Stories
 As a User I want to browse the available songs on Deezer/Spotify.
-As a User I want to see song details.
-//As a User I want to see a TV show's episodes.
-As a User I want to add a song to my favorites list.
-As a User I want to remove a song from my favorites list.
-As a User I want to see my list of favorites songs.
+- see song details
+- add a song to my favorites list.
+- remove a song from my favorites list.
+- see my list of favorites songs.
 
 
 
-//Pseudo Code
+Pseudo Code
+
 class User {
   user name,
   email,
